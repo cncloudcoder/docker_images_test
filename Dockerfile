@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
 
-EXPOSE a
+EXPOSE 8080 80
 
 CMD ["bash"]
